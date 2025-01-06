@@ -1,0 +1,7 @@
+# ninja log v6
+21	1475	7488510723321818	CMakeFiles/Program2.dir/Account.cpp.obj	52f7b143ec620f09
+38	1753	7488518608772994	CMakeFiles/Program2.dir/main.cpp.obj	c7ea6594c33fdada
+3	448	7491631969405798	build.ninja	f18e3cb50559bcc5
+1834	2187	7488518626819611	Program2.exe	6024f3a44c131cac
+34	1525	7488510723441465	CMakeFiles/Program2.dir/Bank.cpp.obj	4a65d37ab42e1f8e
+44	1834	7488518608772994	CMakeFiles/Program2.dir/ATM.cpp.obj	ac80f09132358880
